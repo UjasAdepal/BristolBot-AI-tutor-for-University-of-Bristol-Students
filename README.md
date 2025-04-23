@@ -1,4 +1,3 @@
-Sure! Here's a detailed and polished `README.md` file for your AI Tutoring System project — tailored for GitHub. This includes a description, features, setup instructions, architecture diagram reference, and contribution guide.
 
 ---
 
