@@ -130,19 +130,7 @@ If you're a student or researcher working on educational AI or RAG systems, feel
 
 MIT License. See `LICENSE.md` for details.
 
----
 
-## 🙌 Acknowledgements
-
-Built as part of the MSc FinTech with Data Science thesis at the University of Bristol.  
-Thanks to [OpenAI](https://openai.com), [LangChain](https://www.langchain.com), and [Streamlit](https://streamlit.io) for their powerful tooling.
-
-```
-
----
-
-Let me know if you'd like:
-- A `requirements.txt`
 - A LaTeX-formatted version for your thesis
 - Or to include links to your architecture diagrams automatically
 
