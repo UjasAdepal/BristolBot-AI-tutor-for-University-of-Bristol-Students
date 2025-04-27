@@ -125,13 +125,3 @@ Pull requests are welcome! To contribute:
 If you're a student or researcher working on educational AI or RAG systems, feel free to open a discussion or get in touch.
 
 ---
-
-## 📜 License
-
-MIT License. See `LICENSE.md` for details.
-
-
-- A LaTeX-formatted version for your thesis
-- Or to include links to your architecture diagrams automatically
-
-Happy shipping! 🚀
