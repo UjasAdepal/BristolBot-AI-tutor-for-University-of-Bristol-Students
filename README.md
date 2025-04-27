@@ -43,7 +43,7 @@ Here’s how it works:
 ## 🛠️ Setup Instructions
 
 ### 🔋 Requirements
-- Python 3.10+
+- Python 3.9
 - OpenAI API key
 - Git, pip, virtualenv (recommended)
 
