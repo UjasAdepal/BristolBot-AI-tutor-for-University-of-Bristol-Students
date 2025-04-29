@@ -1,0 +1,94 @@
+[
+    {
+      "topic": "admissions",
+      "question": "What is a UCAS ID",
+      "AI": "A UCAS ID is a unique identification number assigned to students when they apply for higher education courses through the UCAS system.",
+      "answer": "The UCAS ID (also known as UCAS Personal ID) is a 10-digit number assigned to you when you register with UCAS (Universities and Colleges Admissions Service) in the UK. It’s your unique identifier used throughout the university application process."
+      
+    },
+    {
+      "topic":"Postgraduate",
+      "question": "How do I apply for postgraduate taught programmes at the University of Bristol?",
+      "AI": "To apply for postgraduate taught programmes at the University of Bristol, you can visit the official university website and navigate to the admissions section. There, you will find detailed instructions on how to apply, including the application deadlines, required documents, and any specific program requirements.",
+      "answer": "To apply for a postgraduate taught programme at the University of Bristol, first choose your course from their Postgraduate Taught Programmes page and check the specific entry requirements listed in the admissions statement. Then, prepare your supporting documents such as academic transcripts, degree certificates, and proof of English proficiency if required. Finally, submit your application directly through the University of Bristol’s online application portal."
+    },
+    {
+      "topic": "none",
+      "question": "Are there any scholarships available for undergraduate international students?",
+      "AI": "Yes, there are scholarships available for undergraduate international students at the University of Bristol.",
+      "answer": "Yes, the University of Bristol offers scholarships for international undergraduate students, including the prestigious Think Big Undergraduate Scholarships worth £6,500 or £13,000 per year towards tuition fees. There are also subject-specific awards like those for Economics, Law, and Childhood Studies. Additionally, students applying through the Global Transfer Programme may be eligible for a £3,000 bursary. You can apply for these through a single application form."
+    },
+    {
+      "topic":"none",
+      "question": "Can international students work part-time while studying?",
+      "AI": "The University's advice to all its students is not to work more than 15 hours a week while studying full time. International students on a Student visa are furthermore subject to legal restrictions on working hours as part of the conditions of their visa.",
+      "answer": "Yes, international students in the UK on a Student visa can work part-time during their studies. Typically, you're allowed to work up to 20 hours per week during term time and full-time during vacations, as long as it doesn’t interfere with your studies. Make sure to check the exact conditions on your visa and follow university guidelines."
+    },
+    {
+      "topic":"none",
+      "question": "How much are the tuition fees for MSc Artificial Intelligence?",
+      "AI": "The tuition fees for MSc Artificial Intelligence are £9,535 per year for home students and £32,500 per year for international students​",
+      "answer": "​The University of Bristol does not currently offer a standalone MSc in Artificial Intelligence. However, related programmes such as the MSc in Internet of Things with AI have tuition fees of £18,400 per year for home students and £35,800 per year for international students . Please note that fees are subject to annual review and may increase by up to 8% each year.​"
+    },
+    {
+      "topic":"none",
+      "question": "What English language requirements must I meet for postgraduate study?",
+      "AI": "You will need to reach the requirements outlined in profile level C for postgraduate study at the University of Bristol..​",
+      "answer": "The University of Bristol requires postgraduate applicants to meet specific English language proficiency levels, categorized into profiles (A to H) based on the programme. Most postgraduate taught programmes fall under Profile B or C.​"
+    },
+    {
+      "topic":"Accomodation",
+      "question": "Where can I live as a student in Bristol?",
+      "AI": "There are several accommodation options available for students in Bristol, including university-owned halls of residence, private student accommodation, and shared houses or flats. It is recommended to research and compare different options to find the best fit for your preferences and budget.",
+      "answer": "​As a postgraduate student at the University of Bristol, you can choose from a variety of self-catered university accommodations, such as Marlborough House and Deans Court, both located within walking distance of the main campus. If you're moving with a partner or family, the university offers a limited number of family and couples accommodations. Alternatively, you may opt for private rented housing, with the university providing guidance to help you find suitable options."
+    },
+    {
+      "topic":"none",
+      "question": "Is the Think Big scholarship applicable to postgraduate students?",
+      "AI": "Yes, the Think Big scholarship is applicable to postgraduate students.      ",
+      "answer": "Yes, the University of Bristol offers the Think Big Postgraduate Awards for international students applying to eligible one-year, full-time taught master's programmes starting in September 2025. These awards, valued at £6,500, £13,000, or £26,000 per year, are applied directly to tuition fees. To be eligible, you must have applied to an eligible programme, be classed as an overseas student for fee purposes, and not already have funding that covers your full tuition fees. The application deadline is 10:00 AM (UK time) on Wednesday, 23 April 2025."
+    },
+    {
+      "topic":"none",
+      "question": "How can I get a visa to study at the University of Bristol?",
+      "AI": "Please ensure you review the details relating to obtaining a visa before applying. Further information on funding for prospective UK and international postgraduate students. Information on eligibility and funding can be found at the SWBio website.",
+      "answer": "To study at the University of Bristol, you need to apply for a UK Student visa. After accepting your offer and meeting all conditions, the university will issue a Confirmation of Acceptance for Studies (CAS). You’ll need to provide proof of funds to cover tuition and living expenses, academic qualifications, and, if necessary, an ATAS certificate. Submit your application online through the UK Visas and Immigration portal, pay the visa application fee (£490) and the Immigration Health Surcharge (£776 per year), and attend a biometric appointment if required. It's recommended to apply at least 3 months before your course start date."
+    },
+    {
+      "topic":"none",
+      "question": "Are there any options to do an industrial placement in data science degrees?",
+      "AI": "Yes, there are options to do an industrial placement in data science degrees. The MSc Data Science for Business programme actively encourages students to engage with careers and employability from the outset, allowing them to connect with businesses and industry networks through industry projects such as the Applied Research Project. This will help students cultivate professional relationships and understand the expectations of the job market.​",
+      "answer": "Yes, the University of Bristol offers industrial placement opportunities for postgraduate students in data science-related degrees. For instance, the MSc in Economics with Data Science includes an applied research project where students can collaborate with industry partners to address real-world challenges. Additionally, the university's Global Opportunities Team facilitates over 600 international placements annually, providing students with opportunities to gain practical experience abroad. These placements are designed to enhance employability and provide valuable industry exposure during your studies.​"
+    },
+    {
+      "topic":"none",
+      "question":"Can I get a refund if I withdraw after starting my course?",
+      "AI":"If you have already paid in full and withdraw after starting your course, you may be eligible for a refund for the discounted amount.",
+      "answer":"You can apply for a tuition fee refund after notifying your school, department, or faculty office in writing about your withdrawal. Full refunds are available if claimed within the first two weeks of the programme, with partial refunds depending on the term for undergraduates or on a monthly basis for postgraduates"
+    },
+    {
+      "topic":"none",
+      "question":"Is there financial support for disabled students?",
+      "AI":"Please refer to the Social Work fees and funding page for information on financial support for disabled students.",
+      "answer":"Yes, the University of Bristol offers various forms of financial support for disabled students"
+    },
+    {
+      "topic":"none",
+      "question":"Does the university provide accommodation for families?",
+      "AI":"The University of Bristol provides accommodation for student parents at the University Day Nursery, which gives priority to student parents but also offers places to staff where available. Additionally, Woodland House Nursery is a private nursery affiliated with the University and gives priority to University staff.",
+      "answer":"Yes, the University of Bristol offers family accommodation for students in couples or with young children, primarily in Manor Hall"
+    },
+    {
+      "topic":"none",
+      "question":"Is there a printing service on campus?",
+      "AI":"Yes, there is a printing service on campus. You can submit print orders through the Print Submission system.",
+      "answer":"Yes, there are multiple printing options available on campus at University of Bristol "
+    },
+    {
+      "topic":"none",
+      "question":"what are courses in MSc financial technology with data science",
+      "AI":"The courses in MSc Financial Technology with Data Science include units addressing the latest technological developments in the finance industry such as big data, artificial intelligence, machine learning, process automation, cryptocurrencies, and blockchain, alongside units covering the underpinning theory. Students will also have the opportunity to integrate material from all taught units in a substantial piece of original work in the field of financial technology.",
+      "answer":"The MSc Financial Technology with Data Science consists of compulsory units such as Large-Scale Data Engineering; Introduction to Financial Technology; Introduction to AI and Data Analytics; Advanced Financial Technology; and Financial Technology Group Project."
+    }
+  ]
+  
