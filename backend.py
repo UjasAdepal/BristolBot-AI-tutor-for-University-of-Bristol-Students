@@ -31,7 +31,7 @@ def get_retrievers(topics):
     metadata_filter = {"topics": {"$in": topics}} if topics else {}
     faq_vectorstore = load_vectorstore(FAQ_VECTOR_PATH)
     course_vectorstore = load_vectorstore(COURSE_VECTOR_PATH)
-    retriever_faq = faq_vectorstore.as_retriever(search_kwargs={"k": 1, "filter": metadata_filter})
+    retriever_faq = faq_vectorstore.as_retriever(search_kwargs={"k": 5, "filter": metadata_filter})
     retriever_course = course_vectorstore.as_retriever(search_kwargs={"k": 5, "filter": metadata_filter})
     return retriever_faq, retriever_course
 
