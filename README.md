@@ -99,11 +99,6 @@ streamlit run app.py
 
 ---
 
-## 📊 Evaluation
-
-- Supports both manual and LLM-based evaluation
-- CSV logs include relevance, completeness, and factuality scores
-- Auto evaluator script available in `evaluate.py`
 
 ---
 
