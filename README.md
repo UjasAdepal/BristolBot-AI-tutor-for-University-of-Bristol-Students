@@ -74,6 +74,7 @@ OPENAI_API_KEY=your-key-here
 
 ```bash
 # Embed course and FAQ content
+# this will take plenty of time to run
 python ingest_courses.py
 python ingest_faq.py
 
